@@ -1,0 +1,20 @@
+{"time":"2025-02-24T23:16:21.3671417+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"c:\\Users\\Parth\\OneDrive - iitgn.ac.in\\CS203_Lab_01-main\\New folder\\-CS-203-MLP-Model-Implementation-Experiment-Tracking-Hyperparameters\\wandb\\run-20250224_231621-5uogg7fy\\logs\\debug-core.log"}
+{"time":"2025-02-24T23:16:21.4796803+05:30","level":"INFO","msg":"created new stream","id":"5uogg7fy"}
+{"time":"2025-02-24T23:16:21.4796803+05:30","level":"INFO","msg":"stream: started","id":"5uogg7fy"}
+{"time":"2025-02-24T23:16:21.4796803+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"5uogg7fy"}
+{"time":"2025-02-24T23:16:21.4796803+05:30","level":"INFO","msg":"sender: started","stream_id":"5uogg7fy"}
+{"time":"2025-02-24T23:16:21.4796803+05:30","level":"INFO","msg":"handler: started","stream_id":"5uogg7fy"}
+{"time":"2025-02-24T23:16:21.9900644+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-24T23:16:22.1967523+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-24T23:16:22.2092946+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-24T23:16:22.2183646+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-24T23:16:22.2399329+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-24T23:16:23.1396727+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-24T23:16:23.161457+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-24T23:16:23.5127961+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-24T23:16:23.5216957+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-24T23:16:24.4773383+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-24T23:16:24.4867164+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-24T23:16:24.4893461+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-24T23:17:27.5697201+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-24T23:17:27.8982292+05:30","level":"INFO","msg":"Pausing system monitor"}

@@ -1,16 +1,17 @@
 {
-  "os":  "Windows-11-10.0.26100-SP0",
-  "python":  "CPython 3.13.2",
-  "startedAt":  "2025-02-24T08:42:59.821795Z",
+  "os":  "Windows-10-10.0.26100-SP0",
+  "python":  "CPython 3.10.11",
+  "startedAt":  "2025-02-24T17:46:21.365382Z",
   "program":  "c:\\Users\\Parth\\OneDrive - iitgn.ac.in\\CS203_Lab_01-main\\New folder\\-CS-203-MLP-Model-Implementation-Experiment-Tracking-Hyperparameters\\Section_1.ipynb",
   "codePath":  "Section_1.ipynb",
   "git":  {
-    "remote":  "https://github.com/ParthivPatel2005/-CS-203-MLP-Model-Implementation-Experiment-Tracking-Hyperparameters.git"
+    "remote":  "https://github.com/ParthivPatel2005/-CS-203-MLP-Model-Implementation-Experiment-Tracking-Hyperparameters.git",
+    "commit":  "b7c5c5e4b86cd963af6b197c237bd970c0a9f13d"
   },
   "email":  "parthivrpatel2005@gmail.com",
   "root":  "c:\\Users\\Parth\\OneDrive - iitgn.ac.in\\CS203_Lab_01-main\\New folder\\-CS-203-MLP-Model-Implementation-Experiment-Tracking-Hyperparameters",
   "host":  "DESKTOP-4MCKLUO",
-  "executable":  "c:\\Program Files\\Python313\\python.exe",
+  "executable":  "c:\\Program Files\\Python310\\python.exe",
   "codePathLocal":  "Section_1.ipynb",
   "cpu_count":  14,
   "cpu_count_logical":  20,
@@ -19,7 +20,7 @@
   "disk":  {
     "/":  {
       "total":  "462554132480",
-      "used":  "407295909888"
+      "used":  "408541552640"
     }
   },
   "memory":  {
