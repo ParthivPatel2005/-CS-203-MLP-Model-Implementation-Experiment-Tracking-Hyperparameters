@@ -1,0 +1,18 @@
+{"time":"2025-02-24T23:34:20.0913997+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"c:\\Users\\Parth\\OneDrive - iitgn.ac.in\\CS203_Lab_01-main\\New folder\\-CS-203-MLP-Model-Implementation-Experiment-Tracking-Hyperparameters\\wandb\\run-20250224_233420-gux1j7zz\\logs\\debug-core.log"}
+{"time":"2025-02-24T23:34:20.2300132+05:30","level":"INFO","msg":"created new stream","id":"gux1j7zz"}
+{"time":"2025-02-24T23:34:20.2300132+05:30","level":"INFO","msg":"stream: started","id":"gux1j7zz"}
+{"time":"2025-02-24T23:34:20.2300132+05:30","level":"INFO","msg":"handler: started","stream_id":"gux1j7zz"}
+{"time":"2025-02-24T23:34:20.2300132+05:30","level":"INFO","msg":"sender: started","stream_id":"gux1j7zz"}
+{"time":"2025-02-24T23:34:20.2306753+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"gux1j7zz"}
+{"time":"2025-02-24T23:34:20.7614639+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-24T23:34:21.0741232+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-24T23:34:21.1145311+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-24T23:34:21.1359062+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-24T23:34:21.1683735+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-24T23:34:23.5079732+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-24T23:34:23.5435878+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-24T23:34:24.6583031+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-24T23:34:24.6923606+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-24T23:34:25.9268087+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-24T23:34:25.9523533+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-24T23:34:25.9599302+05:30","level":"INFO","msg":"Pausing system monitor"}
