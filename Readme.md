@@ -72,6 +72,53 @@ The goal of this assignment is to learn about experiment tracking, version contr
 - Analyze hyperparameter impact on performance.
 - Compare manual tuning vs automated search.
 
+### **Hyperparameter Search Results**
+
+Below is a table summarizing the results of different hyperparameter search strategies, learning rates, epochs, and evaluation metrics:
+
+| Strategy         | Learning Rate | Epochs | Metric  | Score  |
+|-----------------|--------------|--------|---------|--------|
+| Grid Search    | 0.00100      | 1      | Accuracy | 0.8667 |
+| Grid Search    | 0.00100      | 3      | Accuracy | 0.9667 |
+| Grid Search    | 0.00100      | 5      | Accuracy | 1.0000 |
+| Grid Search    | 0.00001      | 1      | Accuracy | 0.8667 |
+| Grid Search    | 0.00001      | 3      | Accuracy | 0.9667 |
+| Grid Search    | 0.00001      | 5      | Accuracy | 1.0000 |
+| Random Search  | 0.00001      | 3      | Accuracy | 0.9667 |
+| Random Search  | 0.00001      | 3      | Accuracy | 0.9667 |
+| Random Search  | 0.00001      | 3      | Accuracy | 0.9667 |
+| Hyperband      | 0.00100      | 5      | Accuracy | 1.0000 |
+| Hyperband      | 0.00001      | 5      | Accuracy | 1.0000 |
+| Hyperband      | 0.00100      | 2      | Accuracy | 0.9333 |
+| Hyperband      | 0.00001      | 2      | Accuracy | 0.9333 |
+| Hyperband      | 0.00100      | 1      | Accuracy | 0.8667 |
+| Hyperband      | 0.00001      | 1      | Accuracy | 0.8667 |
+| Bayesian Search| 0.00001      | 3      | Accuracy | 0.9667 |
+| Bayesian Search| 0.00001      | 1      | Accuracy | 0.8667 |
+| Bayesian Search| 0.00001      | 1      | Accuracy | 0.8667 |
+| Bayesian Search| 0.00001      | 1      | Accuracy | 0.8667 |
+| Bayesian Search| 0.00001      | 1      | Accuracy | 0.8667 |
+| Grid Search    | 0.00100      | 1      | F1_micro | 0.8667 |
+| Grid Search    | 0.00100      | 3      | F1_micro | 0.9667 |
+| Grid Search    | 0.00100      | 5      | F1_micro | 1.0000 |
+| Grid Search    | 0.00001      | 1      | F1_micro | 0.8667 |
+| Grid Search    | 0.00001      | 3      | F1_micro | 0.9667 |
+| Grid Search    | 0.00001      | 5      | F1_micro | 1.0000 |
+| Random Search  | 0.00001      | 3      | F1_micro | 0.9667 |
+| Random Search  | 0.00001      | 3      | F1_micro | 0.9667 |
+| Random Search  | 0.00001      | 3      | F1_micro | 0.9667 |
+| Hyperband      | 0.00100      | 5      | F1_micro | 1.0000 |
+| Hyperband      | 0.00001      | 5      | F1_micro | 1.0000 |
+| Hyperband      | 0.00100      | 2      | F1_micro | 0.9333 |
+| Hyperband      | 0.00001      | 2      | F1_micro | 0.9333 |
+| Hyperband      | 0.00100      | 1      | F1_micro | 0.8667 |
+| Hyperband      | 0.00001      | 1      | F1_micro | 0.8667 |
+| Bayesian Search| 0.00001      | 3      | F1_micro | 0.9667 |
+| Bayesian Search| 0.00001      | 1      | F1_micro | 0.8667 |
+| Bayesian Search| 0.00001      | 1      | F1_micro | 0.8667 |
+| Bayesian Search| 0.00001      | 1      | F1_micro | 0.8667 |
+| Bayesian Search| 0.00001      | 1      | F1_micro | 0.8667 |
+
 ---
 
 ## **Contributors**
