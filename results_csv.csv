@@ -1,0 +1,41 @@
+Strategy,Learning Rate,Epochs,Metric,Score
+Grid Search,0.001,1,accuracy,0.8667
+Grid Search,0.001,3,accuracy,0.9667
+Grid Search,0.001,5,accuracy,1.0
+Grid Search,1e-05,1,accuracy,0.8667
+Grid Search,1e-05,3,accuracy,0.9667
+Grid Search,1e-05,5,accuracy,1.0
+Random Search,1e-05,3,accuracy,0.9667
+Random Search,1e-05,3,accuracy,0.9667
+Random Search,1e-05,3,accuracy,0.9667
+Hyperband,0.001,5,accuracy,1.0
+Hyperband,1e-05,5,accuracy,1.0
+Hyperband,0.001,2,accuracy,0.9333
+Hyperband,1e-05,2,accuracy,0.9333
+Hyperband,0.001,1,accuracy,0.8667
+Hyperband,1e-05,1,accuracy,0.8667
+Bayesian Search,1e-05,3,accuracy,0.9667
+Bayesian Search,1e-05,1,accuracy,0.8667
+Bayesian Search,1e-05,1,accuracy,0.8667
+Bayesian Search,1e-05,1,accuracy,0.8667
+Bayesian Search,1e-05,1,accuracy,0.8667
+Grid Search,0.001,1,f1_micro,0.8667
+Grid Search,0.001,3,f1_micro,0.9667
+Grid Search,0.001,5,f1_micro,1.0
+Grid Search,1e-05,1,f1_micro,0.8667
+Grid Search,1e-05,3,f1_micro,0.9667
+Grid Search,1e-05,5,f1_micro,1.0
+Random Search,1e-05,3,f1_micro,0.9667
+Random Search,1e-05,3,f1_micro,0.9667
+Random Search,1e-05,3,f1_micro,0.9667
+Hyperband,0.001,5,f1_micro,1.0
+Hyperband,1e-05,5,f1_micro,1.0
+Hyperband,0.001,2,f1_micro,0.9333
+Hyperband,1e-05,2,f1_micro,0.9333
+Hyperband,0.001,1,f1_micro,0.8667
+Hyperband,1e-05,1,f1_micro,0.8667
+Bayesian Search,1e-05,3,f1_micro,0.9667
+Bayesian Search,1e-05,1,f1_micro,0.8667
+Bayesian Search,1e-05,1,f1_micro,0.8667
+Bayesian Search,1e-05,1,f1_micro,0.8667
+Bayesian Search,1e-05,1,f1_micro,0.8667
