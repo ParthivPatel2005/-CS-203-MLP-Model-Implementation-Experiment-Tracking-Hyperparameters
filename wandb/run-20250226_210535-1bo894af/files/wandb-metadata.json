@@ -1,12 +1,12 @@
 {
   "os":  "Windows-10-10.0.26100-SP0",
   "python":  "CPython 3.10.11",
-  "startedAt":  "2025-02-26T10:46:13.056681Z",
+  "startedAt":  "2025-02-26T15:35:35.995198Z",
   "program":  "c:\\Users\\Parth\\OneDrive - iitgn.ac.in\\CS203_Lab_01-main\\New folder\\-CS-203-MLP-Model-Implementation-Experiment-Tracking-Hyperparameters\\Section_1.ipynb",
   "codePath":  "Section_1.ipynb",
   "git":  {
     "remote":  "https://github.com/ParthivPatel2005/-CS-203-MLP-Model-Implementation-Experiment-Tracking-Hyperparameters.git",
-    "commit":  "0014f86aa92ee6407c4311846ad2dd8f3bc70fde"
+    "commit":  "7fe0455548a56f37876df8bc4f8ebba73b379b06"
   },
   "email":  "parthivrpatel2005@gmail.com",
   "root":  "c:\\Users\\Parth\\OneDrive - iitgn.ac.in\\CS203_Lab_01-main\\New folder\\-CS-203-MLP-Model-Implementation-Experiment-Tracking-Hyperparameters",
@@ -20,7 +20,7 @@
   "disk":  {
     "/":  {
       "total":  "462554132480",
-      "used":  "431763062784"
+      "used":  "428685193216"
     }
   },
   "memory":  {
