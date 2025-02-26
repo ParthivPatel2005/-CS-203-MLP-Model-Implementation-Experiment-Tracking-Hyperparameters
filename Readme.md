@@ -4,6 +4,8 @@
 
 ### IIT Gandhinagar | Sem-II - 2024-25
 
+**Note:** Please use this with requirements.txt only, some versions of Autogluon may be updated and may not support the tasks we have performed. It is best to work with virtual environment to replicate these results. 
+
 ## **Objective**
 
 The goal of this assignment is to learn about experiment tracking, version control, and reproducibility in machine learning workflows. We implement an MLP model on the Iris dataset and set up experiment tracking using Weights and Biases (W&B). Additionally, we perform hyperparameter optimization using manual tuning and automated search methods.
