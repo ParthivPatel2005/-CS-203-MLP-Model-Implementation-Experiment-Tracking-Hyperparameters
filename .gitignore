@@ -7,3 +7,4 @@ temp
 #models are not pushed due to the size of this file. 
 #temp was used for experiments 
 #rest are used for trial and error workaround
+#in logs, the files for each execution are not pushed, this is to avoid confusion. 
